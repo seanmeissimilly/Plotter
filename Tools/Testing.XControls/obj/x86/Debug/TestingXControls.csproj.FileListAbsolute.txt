@@ -1,0 +1,121 @@
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.exe
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.dll
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Form1.resources
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.read.1.tlog
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.write.1.tlog
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.exe
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.dll
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Form1.resources
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.read.1.tlog
+H:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.write.1.tlog
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.exe
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\TestingXControls.pdb
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.dll
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.pdb
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Form1.resources
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+E:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Form1.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Graficador.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Main.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Graficador.resources
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Main.resources
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Read.resources
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Graficador.resources
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Main.resources
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Read.resources
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Graficador.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Main.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Read.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\bin\Debug\Tokenizing.dll.config
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Graficador.resources
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Main.resources
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.Read.resources
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing.XControls\obj\x86\Debug\TestingXControls.pdb

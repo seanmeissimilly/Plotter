@@ -1,0 +1,39 @@
+N:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.dll
+N:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\ResolveAssemblyReference.cache
+N:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.dll
+N:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.dll
+H:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.pdb
+H:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\ResolveAssemblyReference.cache
+H:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.dll
+H:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.pdb
+E:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.dll
+E:\!University\!Programming\!Tareas\!XMath\XControls\XControls\bin\Debug\XControls.pdb
+E:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.csprojResolveAssemblyReference.cache
+E:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.dll
+E:\!University\!Programming\!Tareas\!XMath\XControls\XControls\obj\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2017\Projects\C#\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\XControls\obj\Debug\XControls.pdb

@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jerarquia.Funcion" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Unaria" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAAFAEBAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Identidad" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAEAAAAAAABAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Constante" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAEAAAABAARAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Binaria" Collapsed="true">
+    <Position X="42" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAQFgABAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Sin" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Cos" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Tan" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Cot" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Arcos" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Arcsin" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Arctan" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.LogN" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.ParteEntera" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Csc" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Sec" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Abs" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Sign" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAAEAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Suma" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Resta" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Multliplicacion" Collapsed="true">
+    <Position X="41" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Division" Collapsed="true">
+    <Position X="43.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Pow" Collapsed="true">
+    <Position X="45.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Resto" Collapsed="true">
+    <Position X="47.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAgAQFgAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Comparador" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Jerarquia.MayorQue" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Igual" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.MenorQue" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.Diferente" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jerarquia.And" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAEAAAAAAAAAAgAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jerarquia.Negacion" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jerarquia.Or" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="50.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAEAAAAAAAAAAgAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jerarquia.Parser" Collapsed="true">
+    <Position X="52" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIYAAAAAAAAAQAQBAAAAAAAAAAABAQAAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Jerarquia.IBooleanExpressions" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Jerarquia.IOperadoresLogicos" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jerarquia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

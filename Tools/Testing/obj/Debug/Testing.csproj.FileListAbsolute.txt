@@ -1,0 +1,42 @@
+G:\Tokenizing\Testing\bin\Debug\Testing.exe.config
+G:\Tokenizing\Testing\bin\Debug\Testing.exe
+G:\Tokenizing\Testing\bin\Debug\Testing.pdb
+G:\Tokenizing\Testing\bin\Debug\Tokenizing.dll
+G:\Tokenizing\Testing\bin\Debug\Tokenizing.pdb
+G:\Tokenizing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+G:\Tokenizing\Testing\obj\Debug\Testing.MainApp.resources
+G:\Tokenizing\Testing\obj\Debug\Testing.Properties.Resources.resources
+G:\Tokenizing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+G:\Tokenizing\Testing\obj\Debug\Testing.exe
+G:\Tokenizing\Testing\obj\Debug\Testing.pdb
+C:\Users\KATRUNO\Desktop\Tokenizing\Testing\bin\Debug\Testing.exe.config
+C:\Users\KATRUNO\Desktop\Tokenizing\Testing\obj\Debug\Testing.exe
+C:\Users\KATRUNO\Desktop\Tokenizing\Testing\obj\Debug\Testing.pdb
+C:\Users\David Sean\Documents\Escuela\1ro\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\bin\Debug\Testing.exe.config
+C:\Users\David Sean\Documents\Escuela\1ro\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.exe
+C:\Users\David Sean\Documents\Escuela\1ro\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.pdb
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\bin\Debug\Testing.exe.config
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\bin\Debug\Testing.exe
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\bin\Debug\Testing.pdb
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.MainApp.resources
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.exe
+C:\Users\David Sean\Documents\Escuela\1.Primero\Programación\Proyectos\Curso 2014-2015\Segundo Proyecto\Tools\Testing\obj\Debug\Testing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\Testing.exe.config
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\Testing.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\Testing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\TestingXControls.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\Jerarquia.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\XControls.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\TestingXControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\bin\Debug\XControls.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.MainApp.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.exe
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Testing\obj\Debug\Testing.pdb

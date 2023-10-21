@@ -1,0 +1,28 @@
+c:\users\lleonart\documents\visual studio 2012\Projects\Tokenizing\Tokenizing\bin\Debug\Tokenizing.exe.config
+G:\Tokenizing\Tokenizing\bin\Debug\Tokenizing.dll.config
+G:\Tokenizing\Tokenizing\bin\Debug\Tokenizing.dll
+G:\Tokenizing\Tokenizing\bin\Debug\Tokenizing.pdb
+G:\Tokenizing\Tokenizing\obj\Debug\Tokenizing.csprojResolveAssemblyReference.cache
+G:\Tokenizing\Tokenizing\obj\Debug\Tokenizing.dll
+G:\Tokenizing\Tokenizing\obj\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll.config
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll.config
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.dll
+C:\Users\David Sean\Documents\Visual Studio 2012\Projects\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll.config
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll.config
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\bin\Debug\Tokenizing.pdb
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.dll
+C:\Users\David Sean\Desktop\invento\Plotter (David Sean Meissimilly Frometa C-121)\Jerarquia\Tools\Tokenizing\obj\Debug\Tokenizing.pdb

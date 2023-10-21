@@ -1,0 +1,4 @@
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Jerarquia\bin\Debug\Jerarquia.pdb
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Jerarquia\obj\Debug\Jerarquia.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Jerarquia\obj\Debug\Jerarquia.dll
+C:\Users\David Sean\Desktop\Plotter\Jerarquia\Jerarquia\obj\Debug\Jerarquia.pdb

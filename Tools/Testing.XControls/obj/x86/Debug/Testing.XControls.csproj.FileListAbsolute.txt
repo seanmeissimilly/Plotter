@@ -1,0 +1,11 @@
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\Testing.XControls.exe
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\Testing.XControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.dll
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\bin\Debug\XControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\Testing.XControls.Properties.Resources.resources
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.read.1.tlog
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\ResGen.write.1.tlog
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\Testing.XControls.exe
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\Testing.XControls.pdb
+N:\!University\!Programming\!Tareas\!XMath\XControls\Testing.XControls\obj\x86\Debug\Testing.XControls.Form1.resources
